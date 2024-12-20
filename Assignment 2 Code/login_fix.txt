@@ -1,0 +1,35 @@
+SQL test: ' OR '1'='1
+
+
+FIX:
+
+def login():
+    if request.method == 'POST':
+        username = request.form['username']
+        password = request.form['password']
+
+        # Use parameterized query to prevent SQL injection
+        query = "SELECT * FROM users WHERE username=? AND password=?"
+
+        conn = sqlite3.connect('test.db')
+        c = conn.cursor()
+
+        # Pass username and password as parameters to the query
+        c.execute(query, (username, password))
+        result = c.fetchone()
+        conn.close()
+
+        if result:
+            logging.info(f"Login successful for username: {username}")
+            return "Login successful!"
+        else:
+            logging.warning(f"Invalid login attempt for username: {username}")
+            return "Invalid credentials!"
+
+    return '''
+        <form method="post">
+            Username: <input type="text" name="username"><br>
+            Password: <input type="password" name="password"><br>
+            <input type="submit" value="Login">
+        </form>
+    '''

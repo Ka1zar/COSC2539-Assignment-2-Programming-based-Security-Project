@@ -1,0 +1,1005 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 121-063-804
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-232-967
+INFO:root:GET / - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:02] "GET / HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:17] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:25] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:25] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:25] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:25] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:25] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=ZMr2TyfqIqlzp7mSQVlQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:32:25] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 179-009-367
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 382-894-984
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-168-529
+INFO:root:GET / - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:33:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 148-947-933
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 628-287-956
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:35:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:35:04] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:35:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:35:05] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=qHYFo4WddMeNYOqb9uvt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:35:05] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:35:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 122-484-009
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 882-053-077
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 183-672-859
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-136-449
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:36:59] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:37:02] "GET /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-321-981
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:38:50] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:38:51] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:39:26] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:39:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:39:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:39:26] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=YXvmaFk7fieqcBcDNpfM HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:39:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:39:26] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 582-971-869
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:46] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:48] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:57] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:57] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=1UphjSHqvoZouaQgoeu6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:44:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:45:06] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:45:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:45:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:45:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png&s=1UphjSHqvoZouaQgoeu6 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:45:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:45:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-151-979
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:46:54] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:46:56] "GET /login HTTP/1.1" 200 -
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:47:03] "POST /login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:48:24] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:48:26] "GET /login HTTP/1.1" 200 -
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:48:32] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 802-760-179
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:49:07] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:49:09] "GET /login HTTP/1.1" 200 -
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:49:13] "POST /login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:49:36] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /favicon.ico - 404
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:49:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:49:39] "GET /login HTTP/1.1" 200 -
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:49:43] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 179-919-986
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:52:36] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:52:38] "GET /login HTTP/1.1" 200 -
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:52:41] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 527-166-826
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:58:33] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 21:58:34] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 997-123-705
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:00:47] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:00:48] "GET /login HTTP/1.1" 200 -
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:00:52] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 395-267-454
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:05:11] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:05:12] "GET /login HTTP/1.1" 200 -
+WARNING:root:Invalid login attempt for username: asdasdas
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:05:16] "POST /login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:05:40] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:05:41] "GET /login HTTP/1.1" 200 -
+INFO:root:Login successful for username: admin
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:05:47] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 128-536-524
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:06:39] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:06:40] "GET /login HTTP/1.1" 200 -
+INFO:root:Login successful for username: 
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:06:42] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-326-791
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:07:58] "GET /links HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:08:00] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:08:00] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:08:00] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:08:00] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=qP5Ncej6TXkagtx84u2A HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:08:00] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-824-318
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:11:54] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:11:55] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:06] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:06] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=55LICLLjBzDPHDLYZzm1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:06] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:26] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:30] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:30] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:30] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:30] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png&s=55LICLLjBzDPHDLYZzm1 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:12:30] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 118-446-144
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 198-899-447
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:14:04] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:14:06] "GET /login HTTP/1.1" 200 -
+WARNING:root:Invalid login attempt for username: 
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:14:17] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 715-126-311
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:14:44] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:14:46] "GET /login HTTP/1.1" 200 -
+INFO:root:Login successful for username: 
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 22:14:49] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 947-412-004
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:05:15] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:06:03] "GET /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:06:07] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 677-394-539
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:07:35] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:07:36] "GET /comments HTTP/1.1" 200 -
+INFO:root:Comment submitted: wassup
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:07:39] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 893-085-446
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:08:49] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:08:50] "GET /comments HTTP/1.1" 200 -
+INFO:root:Comment submitted: hi
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:09:07] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 212-826-735
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:10:42] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:10:44] "GET /comments HTTP/1.1" 200 -
+INFO:root:Comment submitted: hi there
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:10:46] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 149-598-521
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:12:18] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:12:19] "GET /comments HTTP/1.1" 200 -
+INFO:root:Comment submitted: <script>alert('XSS Attack!');</script>
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:12:21] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-329-276
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:14:45] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:14:46] "GET /comments HTTP/1.1" 200 -
+INFO:root:Comment submitted: <b>Test</b>
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:14:47] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 105-042-804
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:17:10] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:17:11] "GET /comments HTTP/1.1" 200 -
+INFO:root:Comment submitted: <b>Test</b>
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:17:19] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 383-004-587
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-127-276
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:18:09] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:18:10] "GET /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:18:14] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 856-678-565
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 366-372-214
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:19:10] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:19:11] "GET /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:19:18] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-342-579
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:20:09] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:20:10] "GET /comments HTTP/1.1" 200 -
+INFO:root:Comment submitted: <img src="x" onerror="alert('XSS')">
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:20:11] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-551-334
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:30:46] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:30:47] "GET /comments HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:02] "[35m[1mPOST /comments HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:02] "GET /comments?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:02] "GET /comments?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:02] "GET /comments?__debugger__=yes&cmd=resource&f=console.png&s=tzAfEkmoVF3ecMnI28gi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:02] "GET /comments?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 577-396-953
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:33] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:34] "GET /comments HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:36] "[35m[1mPOST /comments HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:36] "[36mGET /comments?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:36] "[36mGET /comments?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:36] "GET /comments?__debugger__=yes&cmd=resource&f=console.png&s=ykPRyepZCrWbw10enGwR HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:31:36] "[36mGET /comments?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 468-828-734
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:35:03] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:35:05] "GET /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:35:07] "POST /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:35:26] "POST /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:35:40] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 805-260-847
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:38:46] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:38:47] "GET /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:38:55] "POST /comments HTTP/1.1" 200 -
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:39:48] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 802-350-177
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-897-185
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:41:57] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:42:07] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:42:08] "GET /comments HTTP/1.1" 200 -
+INFO:root:New comment submitted: hi
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:42:09] "POST /comments HTTP/1.1" 200 -
+INFO:root:New comment submitted: &lt;script&gt;alert(&#x27;XSS Attack!&#x27;);&lt;/script&gt;
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:42:20] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-141-228
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 994-499-771
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:44:32] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:44:33] "GET /comments HTTP/1.1" 200 -
+INFO:root:New comment submitted: hi
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:44:35] "POST /comments HTTP/1.1" 200 -
+INFO:root:New comment submitted: <script>alert('XSS Attack!');</script>
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:44:53] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 805-816-995
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:50:46] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:50:48] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:50:50] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-174-391
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:53:41] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:53:43] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:53:46] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 260-152-600
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:55:38] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:55:39] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:55:41] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:55:48] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:55:49] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:55:52] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:00] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:01] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:03] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:11] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:12] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:14] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:17] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:18] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:20] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:22] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:23] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:56:24] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 228-225-321
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:57:17] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:57:18] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:57:20] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 761-499-777
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:59:54] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2024 23:59:55] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:00:09] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:00:13] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:00:16] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:00:34] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:00:39] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:00:41] "GET /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 466-850-478
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:01:41] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:01:43] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:01:52] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:02:14] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:02:15] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:02:27] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:02:39] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:02:40] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:02:42] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-425-743
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 300-950-740
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:24] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:25] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:27] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:28] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:28] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:29] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:30] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:30] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:31] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:32] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:32] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:33] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:05:34] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-834-743
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:07:46] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:07:48] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:Login attempt for username: valid_user.
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:08:01] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 883-742-716
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:08:29] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:08:31] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:Login attempt for username: admin.
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:08:36] "POST /secure-login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-337-710
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:11:02] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:11:07] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:11:08] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 916-023-226
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:13:02] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:13:03] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 943-564-296
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-290-728
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:17:29] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 00:17:30] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-516-036
+INFO:root:GET /api/data - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 01:10:19] "GET /api/data HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 01:10:37] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-370-758
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:45:41] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /favicon.ico - 404
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:45:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:45:53] "GET /login HTTP/1.1" 200 -
+INFO:root:Login successful for username: admin
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:46:06] "POST /login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:46:29] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:46:30] "GET /login HTTP/1.1" 200 -
+WARNING:root:Invalid login attempt for username: asdsadasdsa
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:46:35] "POST /login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:47:09] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:47:10] "GET /login HTTP/1.1" 200 -
+INFO:root:Login successful for username: 
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:47:31] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-921-580
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:48:12] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:48:15] "GET /login HTTP/1.1" 200 -
+WARNING:root:Invalid login attempt for username: 
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:48:25] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 267-586-772
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:51:57] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:52:05] "GET /login HTTP/1.1" 200 -
+INFO:root:Login successful for username: admin
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:52:25] "POST /login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:52:47] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:52:49] "GET /login HTTP/1.1" 200 -
+WARNING:root:Invalid login attempt for username: sdsadasdad
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:52:55] "POST /login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:53:15] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:53:16] "GET /login HTTP/1.1" 200 -
+INFO:root:Login successful for username: 
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:53:37] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-633-478
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:54:09] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:54:11] "GET /login HTTP/1.1" 200 -
+WARNING:root:Invalid login attempt for username: 
+INFO:root:POST /login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:54:18] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Nguye\\OneDrive\\Documents\\IRL\\COSC2539 Security new\\Assignment 2\\Assignment 2 code\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-575-534
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 100-677-101
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:58:48] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:58:50] "GET /comments HTTP/1.1" 200 -
+INFO:root:New comment submitted: hi hello I'm Lam
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:59:01] "POST /comments HTTP/1.1" 200 -
+INFO:root:New comment submitted: <script>alert('XSS Attack!');</script>
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 08:59:25] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 454-538-314
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:00:17] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /comments - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:00:19] "GET /comments HTTP/1.1" 200 -
+INFO:root:New comment submitted: &lt;script&gt;alert(&#x27;XSS Attack!&#x27;);&lt;/script&gt;
+INFO:root:POST /comments - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:00:27] "POST /comments HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 745-578-475
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:11] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:13] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:Login attempt for username: admin.
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:20] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:30] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:31] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:35] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:36] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:37] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:38] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:40] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:41] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:42] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:43] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:45] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:46] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:47] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:47] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:49] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:50] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:51] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:52] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:53] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:54] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:56] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:56] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:57] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:57] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:58] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:59] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:04:59] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:05:00] "GET /secure-login HTTP/1.1" 200 -
+INFO:root:POST /secure-login - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:05:01] "POST /secure-login HTTP/1.1" 200 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:10:22] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:10:24] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:14:07] "[31m[1mGET /api/data?Authorization=Bearer%20securetoken HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:14:27] "[31m[1mGET /api/data?Authorization=Bearer%20securetoken HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:14:59] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:15:13] "[31m[1mGET /api/data?Authorization=Bearer%20securetoken HTTP/1.1[0m" 401 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-055-980
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:15:31] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /favicon.ico - 404
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:15:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:15:42] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:15:44] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:16:15] "[31m[1mGET /api/data?Authorization=Bearer%20securetoken HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:17:16] "[31m[1mGET /api/data?Authorization=Bearer%20securetoken HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:17:25] "[31m[1mGET /api/data?Authorization= HTTP/1.1[0m" 401 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 179-736-376
+INFO:root:GET /links - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:19:13] "GET /links HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:19:14] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:19:36] "[31m[1mGET /api/data?Authorization=Bearer%20securetoken HTTP/1.1[0m" 401 -
+INFO:root:GET / - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:19:57] "GET /?Authorization=Bearer%20securetoken HTTP/1.1" 200 -
+INFO:root:GET / - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:20:04] "GET /?Authorization= HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:20:36] "[31m[1mGET /api/data?Bearer%20securetoken HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:20:44] "[31m[1mGET /api/data?Bearer%20securetoken=Authorization HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:21:25] "GET /api/data HTTP/1.1" 200 -
+INFO:root:GET /api/data - 200
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:23:44] "GET /api/data HTTP/1.1" 200 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:24:03] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
+INFO:root:GET /api/data - 401
+INFO:werkzeug:127.0.0.1 - - [20/Dec/2024 09:24:15] "[31m[1mGET /api/data HTTP/1.1[0m" 401 -
